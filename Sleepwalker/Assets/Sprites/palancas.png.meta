@@ -1,9 +1,11 @@
 fileFormatVersion: 2
-guid: 93d25e0152086c0478c6655be689d1b1
-timeCreated: 1448643882
+guid: bd0868039803b6f40b61ecc1d889e970
+timeCreated: 1448644695
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: palancas_0
+    21300002: palancas_1
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +32,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +40,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +51,27 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: palancas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 469
+        height: 362
+      alignment: 9
+      pivot: {x: .650851667, y: .426709831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: palancas_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 13
+        width: 469
+        height: 362
+      alignment: 9
+      pivot: {x: .349148422, y: .438925058}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
