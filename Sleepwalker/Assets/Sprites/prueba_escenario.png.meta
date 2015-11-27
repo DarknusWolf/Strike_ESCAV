@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 109a62f69f7637649b17abe0c18e72db
+timeCreated: 1448645779
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: prueba_escenario_0
+    21300002: prueba_escenario_1
+    21300004: prueba_escenario_2
+    21300006: prueba_escenario_3
+    21300008: prueba_escenario_4
+    21300010: prueba_escenario_5
+    21300012: prueba_escenario_6
+    21300014: prueba_escenario_7
+    21300016: prueba_escenario_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: prueba_escenario_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 685
+        height: 2267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_1
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1424
+        width: 89
+        height: 1676
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3178
+        height: 527
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_3
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 860
+        width: 277
+        height: 279
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_4
+      rect:
+        serializedVersion: 2
+        x: 4971
+        y: 112
+        width: 1081
+        height: 1080
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_5
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1595
+        width: 1146
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_6
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 2554
+        width: 48
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_7
+      rect:
+        serializedVersion: 2
+        x: 4283
+        y: 2418
+        width: 383
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prueba_escenario_8
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2415
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
