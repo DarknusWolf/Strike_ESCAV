@@ -3,7 +3,6 @@ using System.Collections;
 
 public class activador_palanca : MonoBehaviour {
 	public Animator Target; //meter animacion puerta
-    //[Header("Cosa")]
     bool dentro = false;
 	Animator mi_animacion;
 
