@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Despierta : MonoBehaviour {
     
-    //public Animator Target; //Cuando este el personaje
+    public Animator Target; //Cuando este el personaje
 
     // Use this for initialization
     void Start () {
