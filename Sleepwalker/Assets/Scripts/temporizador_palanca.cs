@@ -33,11 +33,12 @@ public class temporizador_palanca : MonoBehaviour {
 		mi_animacion.SetBool ("Activar",true);
 	
 		Target.SetBool("Activar", true);
+
 	}
 
 	void desactivar(){
 		mi_animacion.SetBool ("Activar",false);
-		
+
 		Target.SetBool("Activar", false);
 	}
 }
