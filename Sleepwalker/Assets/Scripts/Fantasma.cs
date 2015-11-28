@@ -25,9 +25,5 @@ public class Fantasma : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.A)){ //Izquierda
             rg.velocity = new Vector2(-desplazamiento_movimiento, 0);
         }
-
-        /*if (Input.GetKeyDown(KeyCode.Space)){
-
-        }*/
     }
 }

@@ -1,15 +1,13 @@
-ausing UnityEngine;
+using UnityEngine;
 using System.Collections;
 
-public class activador : MonoBehaviour {
-	public Animator target;//meter animacion puerta
+public class activador_palanca : MonoBehaviour {
+	public Animator Target; //meter animacion puerta
 	bool dentro = false;
-
-
 	Animator mi_animacion;
 
 	void Start(){
-		mi_animacion = GetComponent<Animator> ();//animacion palanca
+		mi_animacion = GetComponent<Animator> (); //animacion palanca
 	}
 
 	void Update(){
@@ -20,22 +18,17 @@ public class activador : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D objeto){
 		if (objeto.transform.tag == "Player") {
-				dentro = true;
-
+			dentro = true;
 		}
-
-
 	}
 
 
 	void OnTriggerExit2D(Collider2D objeto){
-
-		dentro = false;  
-		
+		dentro = false;
 	}
 
 	void activar(){
-			target.SetBool("activar", true);
-		mi_animacion.SetBool ("activar",true);
+		Target.SetBool("Activar", true);
+		mi_animacion.SetBool ("Activar",true);
 	}
 }
