@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Sleepwalker/Assets/Sprites/sprites_fantasma_quieto/fantasmafrente_00030.png.meta
 guid: b505be4e63108354f9f2ba4a43d00512
-timeCreated: 1448757781
-=======
-guid: 94545a6fd213b7348b9d37794c3cce64
-timeCreated: 1448754687
->>>>>>> origin/master:Sleepwalker/Assets/Sprites/sprites_fantasma_quieto/fantasmafrente_00030.png.meta
-licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -35,7 +28,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
