@@ -6,12 +6,11 @@ public class Despierta : MonoBehaviour {
     public GameObject go;
     public Rigidbody2D rg;
     public Animator an; //Cuando este el personaje
-
-    //private var Script1;
+    private Mover_ninio scriptmover;
 
     // Use this for initialization
     void Start () {
-        //Script1 = go.GetComponent("Mover_ninio");
+
     }
 	
 	// Update is called once per frame
@@ -21,7 +20,7 @@ public class Despierta : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D objeto){ 
         if (objeto.transform.tag == "Ninio"){
-            //Script1.
+            scriptmover.Controlador();
             rg.AddForce(new Vector2(0, fuerza));
             an.SetBool("Susto", true);
         }

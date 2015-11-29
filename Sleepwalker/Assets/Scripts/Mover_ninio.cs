@@ -31,6 +31,7 @@ public class Mover_ninio : MonoBehaviour {
     }
 
     public void Controlador() {
+        Debug.Log("Anda");
         anda = false;
     }
 }
