@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Sleepwalker/Assets/Sprites/sprites_fantasma_quieto/fantasmafrente_00088.png.meta
 guid: 3fb7f7c81a66bda46a468469b714a0da
 timeCreated: 1448757750
+=======
+guid: e7be17a45fbceb24099a9d94b42d66ce
+timeCreated: 1448754713
+>>>>>>> origin/master:Sleepwalker/Assets/Sprites/sprites_fantasma_quieto/fantasmafrente_00088.png.meta
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
