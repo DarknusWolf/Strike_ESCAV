@@ -10,7 +10,7 @@ public class ControladorMenu : MonoBehaviour {
     }
 
     public void muestra_menu(){
-        Time.timeScale = 0;
         anim.SetBool("MuestraMenu", true);
+        Time.timeScale = 0;
     }
 }
